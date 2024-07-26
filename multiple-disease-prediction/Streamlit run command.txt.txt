@@ -1,0 +1,1 @@
+streamlit run "C:\Users\ANJI\Downloads\multiple-disease-prediction\mc.py"
