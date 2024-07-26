@@ -1,1 +1,2 @@
-# Multiple-Disease-Prediction
+# Project Title: Multiple-Disease-Prediction
+It is a multi-disease prediction system using Python and Scikit-Learn to diagnose diabetes, heart disease, and Parkinson's disease. It utilizes SVM and Logistic Regression algorithms, achieving high accuracy. The data preprocessing and analysis were performed with Pandas and NumPy, and visualizations with Matplotlib and Seaborn. The models were trained, evaluated, and serialized with Pickle for real-time predictions. This project demonstrated expertise in machine learning, data analysis, and health diagnostics.
